@@ -13,4 +13,4 @@ We are a social group that seek equal rights
 6. La unión hace la fuerza
 
 # About us
-My name is Lester Howard
+My name is Lester Howard, nice to meet you.
