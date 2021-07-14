@@ -11,3 +11,6 @@ We are a social group that seek equal rights
 4. Reemplazar a 2 de los heroes
 5. Luchar por el bien social
 6. La unión hace la fuerza
+
+# About us
+My name is Lester Howard
