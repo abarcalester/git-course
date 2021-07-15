@@ -5,3 +5,4 @@
 * Aquaman
 * Mujer Maravilla
 * Literna verde
+* Spiderman
