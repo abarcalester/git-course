@@ -7,3 +7,4 @@
 * Literna verde
 * Spiderman
 * Luke
+* Thor
